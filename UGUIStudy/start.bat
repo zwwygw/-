@@ -1,0 +1,1 @@
+copy "C:\ProgramData\Unity" "C:\ProgramData\Unity\Unity_lic.ulf"
